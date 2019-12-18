@@ -1,0 +1,55 @@
+Enter items to be stored in a list:
+Enter 'B' for book or 'R' for recording: r
+
+Enter album title: Swingrowers
+
+Enter artist: Pronouncia
+
+Enter file format: (1)MP3, (2)WAV, (3)AIFF: 1
+
+Enter ID number: 88
+Enter 'B' for book or 'R' for recording: b
+
+Enter book title: Lost
+
+Enter book author: Edward Reed 
+
+Enter ID number: 32
+Enter 'B' for book or 'R' for recording: q
+
+Please be kind and cooperate so we can go home.
+Enter 'B' for book or 'R' for recording: b
+
+Enter book title: exit
+
+Enter book author: 
+
+Enter ID number: 3
+Enter 'B' for book or 'R' for recording: g
+
+Please be kind and cooperate so we can go home.
+Enter 'B' for book or 'R' for recording: r
+
+Enter album title: d
+
+Enter artist: g
+
+Enter file format: (1)MP3, (2)WAV, (3)AIFF: 1
+
+Enter ID number: 23
+Enter 'B' for book or 'R' for recording: r
+
+Enter album title: d
+
+Enter artist: f
+
+Enter file format: (1)MP3, (2)WAV, (3)AIFF: 3
+
+Enter ID number: 1413
+
+Here are the items:
+"Swingrowers" Pronouncia (MP3) 88
+"Lost" Edward Reed  32
+"exit"  3
+"d" g (MP3) 23
+"d" f (AIFF) 1413
